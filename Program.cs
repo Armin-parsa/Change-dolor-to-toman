@@ -8,7 +8,7 @@ namespace ConsoleApp1
         {
             //explains of changing number
             label4:
-            console.writeline("welcome to here");
+            console.WriteLine("welcome to here");
             Console.WriteLine("please just wright one charector for choosing your money");
             Console.WriteLine("a = dolor");
             Console.WriteLine("u = euro");
@@ -79,4 +79,5 @@ namespace ConsoleApp1
         }
     }
 }
+
 
