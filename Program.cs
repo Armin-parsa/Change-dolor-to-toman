@@ -9,6 +9,7 @@ namespace ConsoleApp1
             //explains of changing number
             label4:
             Console.WriteLine("welcome to here you can change your money and see the new price of that");
+            Console.WriteLine("you can find me with this email arminparsa789@gmail.com");
             Console.WriteLine("please just wright one charector for choosing your money");
             Console.WriteLine("a = dolor");
             Console.WriteLine("u = euro");
@@ -79,6 +80,7 @@ namespace ConsoleApp1
         }
     }
 }
+
 
 
 
