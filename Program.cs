@@ -8,7 +8,6 @@ namespace ConsoleApp1
         {
             //explains of changing number
             label4:
-            Console.WriteLine("you can find me with this email    armynparsa789@gmail.com");
             Console.WriteLine("welcome to here");
             Console.WriteLine("please just wright one charector for choosing your money");
             Console.WriteLine("a = dolor");
@@ -80,6 +79,7 @@ namespace ConsoleApp1
         }
     }
 }
+
 
 
 
